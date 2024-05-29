@@ -1,5 +1,7 @@
 <?php
 echo "hello";
+echo "code for second branch";
+echo "test it";
 include "conn.php";
 $college_state_url = array("https://facilities.aicte-india.org/dashboard/pages/php/approvedinstituteserver.php?method=fetchdata&year=2023-2024&program=1&level=1&institutiontype=1&Women=1&Minority=1&state=Andaman%20and%20Nicobar%20Islands%20&course=1",
 "https://facilities.aicte-india.org/dashboard/pages/php/approvedinstituteserver.php?method=fetchdata&year=2023-2024&program=1&level=1&institutiontype=1&Women=1&Minority=1&state=Andhra%20Pradesh%20&course=1",
